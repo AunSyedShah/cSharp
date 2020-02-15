@@ -1,4 +1,5 @@
 using System;
+
 namespace ExponentialSeries
 {
     class Program
