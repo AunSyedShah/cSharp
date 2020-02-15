@@ -1,4 +1,4 @@
-*/stack is a simple data structures, which is use to store like as we do same in book stacks or plates stacks*/
+/* stack is a simple data structures, which is use to store like as we do same in book stacks or plates stacks*/
 using System;
 using System.Collections;
 				
